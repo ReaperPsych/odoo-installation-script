@@ -44,7 +44,8 @@ source venv/bin/activate
 ~/odoo/odoo/odoo-bin -c ~/odoo/odoo.conf
 ```
 
-##### Open the browser and navigate to [localhost:8069](localhost:8069)
+##### Open the browser and navigate to 
+[localhost:8069](localhost:8069)
 
 
 > **Note:**  
