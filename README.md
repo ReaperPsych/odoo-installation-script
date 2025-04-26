@@ -44,5 +44,8 @@ source venv/bin/activate
 ~/odoo/odoo/odoo-bin -c ~/odoo/odoo.conf
 ```
 
+##### Open the browser and navigate to [localhost:8069](localhost:8069)
+
+
 > **Note:**  
 > The PostgreSQL user for Odoo, as well as the `db_user` and `db_password` in the Odoo configuration file, are set to `odoo` by default.
