@@ -45,7 +45,7 @@ source venv/bin/activate
 ```
 
 ##### Open the browser and navigate to 
-[localhost:8069](localhost:8069)
+[localhost:8069](http://localhost:8069)
 
 
 > **Note:**  
